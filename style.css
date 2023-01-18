@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+body {
+    font-family: 'Mulish', sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    background-color: #f1b6d0;
+    border: #F2F44D solid 10px ;
+    border-radius: 250px;
+}
+
+#lista ul li { 
+    list-style: none;
+    font-weight: bold;
+}
